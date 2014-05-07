@@ -1,23 +1,6 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Freefall
-tagline:          'A Technical Blog'
-description:      'From the pitfalls in life to ascension to new heights.'
-url:              http://shashankgroovy.github.com
-
-author:
-  name:           'Shashank Srivastav'
-  url:            https://twitter.com/fnaticshank
-
-paginate:         5
-
-# Custom vars
-github:           https://github.com/shashankgroovy
-gravatar_url:     http://www.gravatar.com/avatar/ba5d5b0e70166d3ba50844084e8021f3.png
-
+name: Freefall
+markdown: redcarpet
+pygments: true
+description: "This is where I blog. Hello I am Shashank. Shashank Srivastav"
+url: "fnaticshank.contagious.co.in"
+permalink: /posts/:title

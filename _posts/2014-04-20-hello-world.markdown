@@ -1,13 +1,17 @@
 ---
 layout: post
 title: Hello
-description: Greetings to all in different languages
+description: Greetings
 category: articles
 tags: [rant]
 ---
 
-hi
-hola
-salut
-privet
-kon'nichiwa
+{% highlight python %}
+In [1]: def say_hi():
+   ...:     print "hello world"
+   ...:     
+
+In [2]: say_hi()
+hello world
+
+{% endhighlight %}
