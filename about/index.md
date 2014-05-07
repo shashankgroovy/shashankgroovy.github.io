@@ -4,7 +4,7 @@ title: About
 ---
 
 > I believe I am a cool, mischievous and a nerdy programmer.
-I am a parselmouth too.
+I am a polygot.
 
 > I am a reader and a follower of logic. I have a keen interest in science,
 > design, and travelling.
