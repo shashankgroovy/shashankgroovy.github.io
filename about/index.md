@@ -3,8 +3,20 @@ layout: page
 title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+> I believe I am a cool, mischievous and a nerdy programmer.
+I am a parselmouth too.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+> I am a reader and a follower of logic. I like science, design, travelling and
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+> Here is a list of my monikers:
+
+> * Hacker name : fnatic_shank
+* IRC nicks : paphos, _0x8badf00d, or _0xdeadbeef.
+
+connecting with people.
+
+###  Aim -  "Survive a Zombie War"
+>Yes, and work on Artificial Intelligence.
+
+### Bragging rights
+>None attained yet.

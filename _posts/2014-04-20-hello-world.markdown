@@ -12,4 +12,3 @@ tags: [rant]
 
      say_hi()
     hello world
-
