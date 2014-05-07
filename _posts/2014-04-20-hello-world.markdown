@@ -6,12 +6,10 @@ category: articles
 tags: [rant]
 ---
 
-{% highlight python %}
-In [1]: def say_hi():
-   ...:     print "hello world"
-   ...:     
+    def say_hi():
+        print "hello world"
+     
 
-In [2]: say_hi()
-hello world
+     say_hi()
+    hello world
 
-{% endhighlight %}
