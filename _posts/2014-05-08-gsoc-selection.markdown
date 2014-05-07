@@ -9,7 +9,7 @@ tags: [rant]
 "Curiosity. That's the word"
 ----------------------------
 
-**I have written this post from a third person perspective.**
+*(I have written this post from a third person perspective.)*
 
 Says Shashank Srivastav, who just got accepted into Google's very own Google
 Summer of Code program and is currently completing his Bachelor's degree in
