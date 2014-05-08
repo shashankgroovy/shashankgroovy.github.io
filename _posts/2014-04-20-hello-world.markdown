@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello
+title: Hello World
 description: Greetings from a parselmouth
 category: articles
 tags: [rant]

@@ -84,9 +84,9 @@ a:visited { color: #434343; }
 /* Site footer */
 
 .site-footer {
-  /*border-top: 1px solid #e8e8e8;*/
+  border-top: 1px solid #e8e8e8;
   padding: 50px 0;
-  background-color: #F9F9F9;
+  /*background-color: #F9F9F9;*/
 }
 
 .footer-heading {
@@ -166,7 +166,7 @@ a:visited { color: #434343; }
 
 .posts a { border-bottom: 1px #DEDEDE dotted; }
 
-.posts li { margin-bottom: 60px; }
+.posts li { margin: 20px 0 90px; }
 
 .posts .post-link {
   font-size: 24px;
