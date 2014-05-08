@@ -9,12 +9,9 @@ tags: [rant]
 "Curiosity. That's the word"
 ----------------------------
 
-*(I have written this post from a third person perspective.)*
+> *(I have written this post from a third person perspective.)*
 
-Says Shashank Srivastav, who just got accepted into Google's very own Google
-Summer of Code program and is currently completing his Bachelor's degree in
-Computer Science Engineering from Manav Rachna College of Engineering,
-Faridabad.  As wikipedia states - The Google Summer of Code (GSoC) is an annual
+As Wikipedia states - The Google Summer of Code (GSoC) is an annual
 program, first held from May to August 2005, in which Google awards stipends
 (of USD 5,500 i.e. approx. INR 3,30,000) to all students who successfully
 complete a requested free and open-source software coding project during the
@@ -44,8 +41,7 @@ Sebastian Thrun on Artificial Intelligence. I was a part of that class. That is
 what I consider a changing point in my life.", he says.
 
 
-What made the difference?
-========================
+## What made the difference?
 
 Marking his excerpt he elegantly tells, "Its like there's a red pill and a blue
 pill. And you can take the blue pill and go back to your classroom and continue
@@ -68,12 +64,12 @@ others who want to excel: Don't just stick to your curriculum, Learn more."
 
 And finally Shashank concludes his thoughts by notifying that here are only 3 things important
 in life:
->  Finding opportunuities - they look a lot like hardwork
+> - Finding opportunuities - they look a lot like hardwork
 
 
->  Being smart - be really smart, and thoughful and generous
+> - Being smart - be really smart, and thoughful and generous
 
->  Building a life - Steve jobs said, 'Everything around us that we call life was
+> - Building a life - Steve jobs said, 'Everything around us that we call life was
 made up by people who are no smarter than you. You can build
 your life where other people can live in. So build a life.'
 So getting to GSoC is fairly simple. Its about committing to learn and grow
