@@ -11,6 +11,7 @@ layout: default
         <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <p class="post-description">{{ post.description }}</p>
+        <a class="post-readmore" href="{{ post.url }}">Read more</a>
     </li>
     {% endfor %}
   </ul>

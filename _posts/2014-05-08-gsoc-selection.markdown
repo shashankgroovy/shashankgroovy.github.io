@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gsoc Selection
-description: Add some desc here
+description: From worrying about the GSoC program to working with GNU.
 category: articles
 tags: [rant]
 ---
@@ -68,14 +68,12 @@ others who want to excel: Don't just stick to your curriculum, Learn more."
 
 And finally Shashank concludes his thoughts by notifying that here are only 3 things important
 in life:
-> Finding opportunuities
-- they look a lot like hardwork
+>  Finding opportunuities - they look a lot like hardwork
 
-> Being smart
-- be really smart, and thoughful and generous
 
-> Building a life
-- Steve jobs said, 'Everything around us that we call life was
+>  Being smart - be really smart, and thoughful and generous
+
+>  Building a life - Steve jobs said, 'Everything around us that we call life was
 made up by people who are no smarter than you. You can build
 your life where other people can live in. So build a life.'
 So getting to GSoC is fairly simple. Its about committing to learn and grow

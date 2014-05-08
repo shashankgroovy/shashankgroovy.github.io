@@ -176,7 +176,11 @@ a:visited { color: #434343; }
   font-size: 15px;
   color: #787777;
   line-height: 3.5;
+}
 
+.posts .post-readmore a {
+  font-size: 13px;
+  color: #818181;
 }
 
 
