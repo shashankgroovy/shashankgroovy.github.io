@@ -6,10 +6,12 @@ category: articles
 tags: [rant]
 ---
 
-"Curiosity. That's the word"
-----------------------------
+![freefall](/images/gsoc.png)
 
+> "Curiosity. That's the word"
+>
 > *(I have written this post from a third person perspective.)*
+
 
 As Wikipedia states - The Google Summer of Code (GSoC) is an annual
 program, first held from May to August 2005, in which Google awards stipends
