@@ -1,6 +1,6 @@
 name: Freefall
 markdown: redcarpet
 pygments: true
-description: "This is where I blog. Hello I am Shashank. Shashank Srivastav"
-url: "fnaticshank.contagious.co.in"
+description: "My first blog. Hi! I'm Shashank Srivastav"
+url: "http://localhost:4000"
 permalink: /posts/:title

@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+
 > I believe I am a cool, mischievous and a nerdy programmer.
 I am a polygot.
 
