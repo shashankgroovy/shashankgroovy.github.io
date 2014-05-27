@@ -62,14 +62,14 @@ was good feeling. So without chit-chatting more here you go read along :
 
 So this is it.
 
->FYI I did get REJECTED.
+> FYI I did get REJECTED.
 ----------------------
 
 However, I got the rejection letter after *3 months*. While one of my friend got
 within 2 weeks. So guess I made it to the semi-finals just not the finals.
 Perhaps it was for the better. It has given me time to focus and code more.
 
-The 2014 is mine!  Already cracked the GSoC 2014.
+But the year 2014 is mine! Already cracked GSoC 2014.
 
 Mozilla Software Engineering Intern is next :)
 
