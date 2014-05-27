@@ -13,7 +13,7 @@ I am a polygot.
 > Here is a list of my monikers:
 
 > * Hacker name : fnatic_shank
-* IRC nicks : paphos, _0x8badf00d, or _0xdeadbeef.
+* IRC nicks : paphos, kr0n0s, _0x8badf00d, or _0xdeadbeef.
 
 
 ###  Aim -  "Survive a Zombie War"
