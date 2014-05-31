@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tinkering with Android Boot Animation
-description: Inspired by Watch Dogs, I ended up changing my android's bootup animation
+description: Inspired by Watch Dogs
 category: articles
 tags: [rant, android, hack, learn]
 ---
@@ -20,7 +20,7 @@ rooting my nexus 4 device and installing the Ubuntu Touch OS on it.
 It was a marvellous feeling. I spent the entire new year night getting Ubuntu
 Touch on my phone and by 5 a.m. I was ready.
 
-But I'll cover that in a separate blog post later.
+I'll cover that in a separate blog post later.
 
 Now, let me tell you how I wondered about moving from my stock nexus boot animation to
 a custom new boot animation.
@@ -28,7 +28,9 @@ a custom new boot animation.
 Enter - [Watch Dogs](http://youtu.be/ulFeUCAI5xM)
 =================================================
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/ulFeUCAI5xM?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+<iframe width="100%" height="100%" src="//www.youtube.com/embed/ulFeUCAI5xM?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 There are a number of skills you can invest in, but far and away, __Hacking__
 is the must have above Driving, Crafting and Combat.
@@ -46,7 +48,7 @@ __Prerequisite__ - your android phone should be __rooted__.
 
 If you want to check if your phone is rooted or not, download this simple app -
 [Root Checker Basic](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck).
-If it says yes! then Voila! Lets dive in. Else head over to XDA developers and
+If it says yes! then Voila! Lets dive in. Else, head over to XDA developers and
 you know what to do.
 
 >  Diving in.
@@ -75,8 +77,9 @@ __Step 3:__
 
 Watch the preview and feel awesome.  
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/ulFeUCAI5xM?rel=0" frameborder="0" allowfullscreen></iframe>
-
+<div class="video">
+<iframe width="100%" height="100%" src="//www.youtube.com/embed/34WJE0YXmyE"" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 __Step 4a: The Phone guy__
@@ -108,13 +111,14 @@ If your phone is rooted you will have that.
 
 Then fire up your terminal and follow along:
 {% highlight bash %}
-> adb shell
+$ adb shell
 shell@mako:/ $ su
 {% endhighlight %}
 
 Since the `/system` is a Read-only file system, we need to add assign write
 permissions to it. (this is temporary and the permisssions resolve after
-we exit.)
+we exit.)   
+FYI mako is the codename for nexus 4.
 
 {% highlight bash %}
 root@mako:/ # mount -o remount,rw -t yaffs2 /dev/block/mtdblock3 /system
@@ -135,17 +139,15 @@ root@mako:/ # cd /system/media
 root@mako:/system/media # mv bootanimation.zip bootanimation.back
 {% endhighlight %}
 
-Now move or copy the watchdogs boot animation file.
+Its time to move or copy the watchdogs boot animation file.
 
 {% highlight bash %}
-root@mako:/system/media # cp
-/sdcard/Download/bootanimation_wd_nexus4_long.zip .
-root@mako:/system/media # mv bootanimation_wd_nexus4_long.zip
-bootanimation.zip
+root@mako:/system/media # cp /sdcard/Download/bootanimation_wd_nexus4_long.zip .
+root@mako:/system/media # mv bootanimation_wd_nexus4_long.zip bootanimation.zip
 {% endhighlight %}
 
 Bam! you're done. Congratulations! you true hacker :)
-time to reboot
+Time to reboot
 
 {% highlight bash %}
 $ adb reboot
@@ -153,6 +155,7 @@ $ adb reboot
 
 Later.
 
+* * *
 
 *P.S. - Actually my sister bought the nexus for me; not that its relevant but don't bug me now! I don't earn yet.*
 
