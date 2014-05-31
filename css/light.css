@@ -41,7 +41,7 @@ body {
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; color: #888;}
 
 a         { color: #3498db; text-decoration: none; border-bottom: 1px solid #FFFFFF; }
-a:hover   { color: #34495e; border-bottom: 1px solid #7d7d7d; }
+a:hover   { color: #34495e; }
 a:visited { color: #2980b9; }
 
 /* Utility */
@@ -256,7 +256,6 @@ a:visited { color: #2980b9; }
     color         : #2D2D2D; /* #4e5860;*/
 }
 
-.post-content a { border-bottom: 1px #AEAEAE dotted; }
 .post-content > * { margin: 20px 0; }
 .post-content p { margin: 30px 0; }
 
@@ -268,8 +267,8 @@ a:visited { color: #2980b9; }
 }
 
 .post-content hr {
-  margin          : 100px auto;
-  width           : 30%;
+  margin          : 50px auto;
+  width           : 20%;
   /*border: 1px solid #E2E2E2;*/
     border: 0;
     height: 1px;
