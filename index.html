@@ -11,11 +11,10 @@ layout: default
         <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <p class="post-description">{{ post.description }}</p>
-        <a class="post-readmore" href="{{ post.url }}">Read more</a>
     </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="/feed.xml" class="rss-subscribe">via RSS</a></p>
+  <p class="rss-subscribe"><a href="/feed.xml" class="rss-subscribe">RSS</a></p>
 
 </div>

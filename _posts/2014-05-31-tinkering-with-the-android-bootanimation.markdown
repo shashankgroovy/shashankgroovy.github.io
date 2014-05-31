@@ -100,8 +100,6 @@ Bam! You're done!
 Time to reboot your phone. Sit back and bathe in the beauty of your new watch
 dogs boot animation.
 
-Cya Later.
-
 * * *
 
 __Step 4b: The Cable guy__
