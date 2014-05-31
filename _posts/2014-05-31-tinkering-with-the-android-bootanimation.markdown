@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tinkering with Android Bootanimation
+title: Tinkering with Android Boot Animation
 description: Inspired by Watch Dogs, I ended up changing my android's bootup animation
 category: articles
 tags: [rant, android, hack, learn]
@@ -22,8 +22,8 @@ Touch on my phone and by 5 a.m. I was ready.
 
 But I'll cover that in a separate blog post later.
 
-Now, let me tell you how I wondered about moving from my stock nexus bootanimation to
-a custom new bootanimation.
+Now, let me tell you how I wondered about moving from my stock nexus boot animation to
+a custom new boot animation.
 
 Enter - [Watch Dogs](http://youtu.be/ulFeUCAI5xM)
 =================================================
@@ -62,7 +62,7 @@ well. Now what you download is a zip file and you would want to keep it that way
 
 __Step 2:__
 
-We need to put the bootanimation from our `Download` folder to `/system/media`
+We need to put the boot animation file from our `Download` folder to `/system/media`
 _(this is why we need to be root)._
 
 From here on there are 2 ways you can achieve the goal:
@@ -135,7 +135,7 @@ root@mako:/ # cd /system/media
 root@mako:/system/media # mv bootanimation.zip bootanimation.back
 {% endhighlight %}
 
-Now move or copy the watchdogs bootanimation file
+Now move or copy the watchdogs boot animation file.
 
 {% highlight bash %}
 root@mako:/system/media # cp
