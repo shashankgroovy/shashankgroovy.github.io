@@ -1,6 +1,6 @@
 name: Freefall
+description: "My first blog. Hi! I'm Shashank Srivastav"
 markdown: redcarpet
 pygments: true
-description: "My first blog. Hi! I'm Shashank Srivastav"
-url: "http://localhost:4000"
+url: http://shashank.im
 permalink: /posts/:title
