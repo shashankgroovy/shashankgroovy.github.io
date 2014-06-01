@@ -4,3 +4,14 @@ markdown: redcarpet
 pygments: true
 url: http://shashank.im
 permalink: /posts/:title
+
+
+# Owner Info
+owner:
+  name:     Shashank Srivatav
+  email:    fnaticshank@gmail.com
+  github:   shashankgroovy
+  twitter:  fnatic_shank
+   
+# Google Analytics 
+google_analytics: UA-51534753-1
