@@ -50,7 +50,7 @@ a:visited { color: #2980b9; }
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width       : 720px;
+  max-width       : 700px;
   padding         : 0 30px;
   margin          : 0 auto;
   zoom            : 1;
@@ -79,14 +79,14 @@ a:visited { color: #2980b9; }
 .site-header {
   /*border-top      : 4px solid #3498db;[> #1edc97 #1BC5A3;<]*/
   min-height      : 120px;
-  background-color: #F4F4F4;
+  background-color: #FAFAFA;
 }
 
 .site-title,
 .site-title:hover,
 .site-title:visited {
   display         : block;
-  color           : #34495e /*#7C7C7C*/;
+  color           : rgba(0,0,0,0.44); /*#8C8C8C;*/
   font-family     : "Voltaire", sans-serif;
   font-size       : 42px;
   letter-spacing  : -1px;
@@ -233,11 +233,11 @@ a:visited { color: #2980b9; }
 .post-header { margin: 10px 0 50px; }
 
 .post-header h1 {
-  font-size       : 50px;
-  letter-spacing  : -3px;
-  line-height     : 1;
+  font-size       : 42px;
+  letter-spacing  : -2px;
+  line-height     : 1.5;
   font-weight     : bold;
-  color           : #34495e;/*#333333;*/
+  color           : #333333;
   word-spacing    : .18em;
 }
 
@@ -254,10 +254,11 @@ a:visited { color: #2980b9; }
     line-height   : 30px;
     letter-spacing: .2px;
     color         : #2D2D2D; /* #4e5860;*/
+    word-spacing  : 2px;
 }
 
 .post-content > * { margin: 20px 0; }
-.post-content p { margin: 20px 0; }
+.post-content p { margin: 30px 0; }
 
 .post-content img {
   margin          : auto auto 20px;
