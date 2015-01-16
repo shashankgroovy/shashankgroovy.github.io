@@ -25,7 +25,7 @@ ideas and various other things that interest me.
 > * Hacker name : fnaticshank
 * IRC nicks : paphos, kr0n0s.
 
-*FYI, [fnatic]('http://www.fnatic.com/') is a famous gaming team.*
+*FYI, [fnatic](http://www.fnatic.com/) is a famous gaming team.*
 
 
 ###  Aim -  "Survive a Zombie War"
@@ -36,4 +36,4 @@ You know program some robots to do my laundry while I save the world ;)
 Still working on this. None attained yet.
 
 
-If you’d like to connect, feel free to [email]('mailto:shashankgrovy@gmail.com') or stalk me elsewhere on the web.
+If you’d like to connect, feel free to [email](mailto:shashankgrovy@gmail.com) or stalk me elsewhere on the web.

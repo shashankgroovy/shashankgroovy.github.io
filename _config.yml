@@ -3,7 +3,22 @@ description: "My first blog. Hi! I'm Shashank Srivastav"
 markdown: redcarpet
 pygments: true
 url: http://shashank.im
-permalink: /posts/:title
+permalink: pretty
+paginate: 10
+paginate_path: "/:num/"
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "projects"
+    values:
+      layout: "page"
 
 
 # Owner Info
