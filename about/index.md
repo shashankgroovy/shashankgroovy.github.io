@@ -3,21 +3,37 @@ layout: page
 title: About
 ---
 
+Hi there.
 
-> I believe I am a cool, mischievous and a nerdy programmer.
-I am a polygot.
+I am Shashank Srivastav, a cool, mischievous programmer and person.
+Or that's what people say about me :)
+And I love to build things for the web and delve myself in programming.
 
-> I am a reader and a follower of logic. I have a keen interest in science,
-> design, and travelling.
+I love to read (comics :P), listen to some post, ambient or indie Rock
+music and play pranks. My life interests revolve around various channels:
 
-> Here is a list of my monikers:
+* On the mind front : programming, science
+* On the heartfelt roads: painting, travelling, photography *(shh! I still have to
+get better at this!)* 
+* And a couple of more.
 
-> * Hacker name : fnatic_shank
-* IRC nicks : paphos, kr0n0s, _0x8badf00d, or _0xdeadbeef.
+This blog is my little corner of the internet wherein I post random thoughts,
+ideas and various other things that interest me.
+
+> In the depths of internet these are my monikers:
+
+> * Hacker name : fnaticshank
+* IRC nicks : paphos, kr0n0s.
+
+*FYI, [fnatic]('http://www.fnatic.com/') is a famous gaming team.*
 
 
 ###  Aim -  "Survive a Zombie War"
->Yes, and work on Artificial Intelligence.
+Yes, and work on Artificial Intelligence.
+You know program some robots to do my laundry while I save the world ;)
 
 ### Bragging rights
->None attained yet.
+Still working on this. None attained yet.
+
+
+If you’d like to connect, feel free to [email]('mailto:shashankgrovy@gmail.com') or stalk me elsewhere on the web.
