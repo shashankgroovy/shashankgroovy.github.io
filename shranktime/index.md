@@ -11,11 +11,7 @@ evergrowing adventures :)
 
 The following is a growing list: 
 
-<<<<<<< HEAD
 1. [All about torrents](/shranktime/all-about-torrents)
-=======
-1. [All about torrents](/sh_anktime/all-about-torrents)
->>>>>>> 4d2ea6d278db7a40493910e3e33e58674c3f6720
 
 So click on the first topic for now and read along :)
 
