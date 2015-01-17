@@ -1,5 +1,7 @@
 name: Freefall
-description: "My first blog. Hi! I'm Shashank Srivastav"
+description: "Hi! I'm Shashank Srivastav. I love programming, python, vim and coffee."
+keywords: "blog, web, programming, python, Shashank Srivastav, Shashank, Srivastav"
+author: "Shashank Srivatav"
 markdown: redcarpet
 pygments: true
 url: http://shashank.im
