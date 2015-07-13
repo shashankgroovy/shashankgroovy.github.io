@@ -258,10 +258,10 @@ a:visited { color: #64B5F6; }
   letter-spacing  : -3px;
   line-height     : 2;
   font-weight     : bold;
-  color           : #69808c;
+  color           : #444444;
 }
 
-.post-content h1 a { color : #69808c; }
+.post-content h1 a { color : #444444; }
 .post-content h1 a:hover { color: #aeaeae;
 }
 
