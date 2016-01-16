@@ -10,7 +10,6 @@ CONFIG = {
   "drafts" => File.join(SOURCE, "_drafts"),
   "format" => "markdown",
   "config" => "_config.yml", 
-  #"url" => "http://fnaticshank.contagious.co.in",
   "dev" => "http://localhost:4000"
 }
 
